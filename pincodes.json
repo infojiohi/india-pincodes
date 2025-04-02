@@ -1,17 +1,21 @@
 [
-{
-   "id": 1,
-   "circle": "Telangana Circle",
-   "region": "Hyderabad Region",
-   "division": "Nizamabad Division",
-   "office": "Posanipet",
-   "pincode": 503144,
-   "type": "BO",
-   "delivery": "Delivery",
-   "district": "KAMAREDDY",
-   "state": "TELANGANA",
-   "lat": "18.4117299",
-   "lon": "78.3684507",
-   "nearbylocations": "Uppalwai",
- }
+  {
+    "id": 1,
+    "circle": "Telangana Circle",
+    "region": "Hyderabad Region",
+    "division": "Nizamabad Division",
+    "office": "Posanipet",
+    "pincode": 503144,
+    "type": "BO",
+    "delivery": "Delivery",
+    "district": "KAMAREDDY",
+    "state": "TELANGANA",
+    "lat": "18.4117299",
+    "lon": "78.3684507",
+    "nearbylocations": [
+      "Uppalwai",
+      "Padmajiwadi",
+      "Bollaram"
+    ]
+  }
 ]
